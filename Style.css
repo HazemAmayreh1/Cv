@@ -26,6 +26,10 @@ p{
 }
 ul{
     font-size: 22px;
+   
+}
+li{
+    list-style-type: none;
 }
 .container{
     width: calc(100% - 100px);
